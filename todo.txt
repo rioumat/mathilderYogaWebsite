@@ -1,10 +1,14 @@
 # mathilderYogaWebsite
 
+Language : typescript and vue
 
-To Do
 
-# create first page
-# add tests
-# look for domain
-# look at where to host
-# look at deployment
+To Do:
+
+create first page 
+add tests
+install gitlab runner locally
+look for domain
+look at where to host
+look at deployment
+
