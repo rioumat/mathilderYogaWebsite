@@ -5,6 +5,6 @@ To Do
 
 # create first page
 # add tests
-# buy domain
+# look for domain
 # look at where to host
-# look at fancy deployment
+# look at deployment
